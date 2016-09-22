@@ -1,0 +1,10 @@
+/src/main/resources/static
+.idea
+.gradle
+gradle-app.setting
+/build/
+/src/main/script/node_modules/
+.vscode/
+.gradletasknamecache
+/gradle/
+gradlew*
